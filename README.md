@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nik
-- 👀 I’m interested in Go
+- 👀 I’m interested in Go & Javascript
 - 📫 nikkefimov(at)gmail.com
 
 <!---
