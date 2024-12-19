@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Nik
 - 👀 I’m interested in Go
-- 📫 nikkefimov(at)gmail.com
 
 <!---
 nikkefimov/nikkefimov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
