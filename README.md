@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nik
-- 👀 I’m interested in Go
+- 👀 I’m interested in Go & TypeScript
 
 <!---
 nikkefimov/nikkefimov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
